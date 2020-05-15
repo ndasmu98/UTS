@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IanApps</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+
+    <string name="slide_1_title">About</string>
+    <string name="slide_1_desc">Berawal dari hobi, dilanjutkan menjadi rutinitas.</string>
+    <string name="slide_2_title">About me</string>
+    <string name="slide_2_desc">Disambung silaturahmi dengan sesama codingers.</string>
+    <string name="slide_3_title">About Us</string>
+    <string name="slide_3_desc">Aplikasi ini hanya sekedar pembelajaran.</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ian Herdiansyah</string>
+    <string name="nav_header_subtitle">Herdiansyahian15@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Daily Activity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_music_video">Music Favourite &amp; Video</string>
+    <string name="menu_my_profile">My Profile</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
